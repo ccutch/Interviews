@@ -65,6 +65,6 @@ function twoSum(nums, target) {
 
 
 ToDo:
- - [ ] finish understanding one pass solution
+ - [x] finish understanding one pass solution
  - [ ] complete and understand recursive solution
  
